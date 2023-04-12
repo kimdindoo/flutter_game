@@ -13,21 +13,21 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/gimjinsu/Documents/flutter_game/sensor_test_game/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/gimjinsu/Documents/flutter_game/sensor_test_game/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/gimjinsu/StudioProjects/sensor_test_game/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/gimjinsu/StudioProjects/sensor_test_game/android/app/src/debug/AndroidManifest.xml:7:22-64
 16    <!-- required for API 18 - 30 -->
 17    <uses-permission
-17-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
+17-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
 18        android:name="android.permission.BLUETOOTH"
-18-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-52
+18-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-52
 19        android:maxSdkVersion="30" />
-19-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-35
+19-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-35
 20    <uses-permission
-20-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:38
+20-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:38
 21        android:name="android.permission.BLUETOOTH_ADMIN"
-21-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-58
+21-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-58
 22        android:maxSdkVersion="30" /> <!-- required for API 23 - 30, no android:maxSdkVersion because of a potential breaking change -->
-22-->[:reactive_ble_mobile] /Users/gimjinsu/Documents/flutter_game/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-35
+22-->[:reactive_ble_mobile] /Users/gimjinsu/StudioProjects/sensor_test_game/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-35
 23    <!-- TODO: add android:maxSdkVersion on 2.0.0 -->
 24    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
 24-->[com.polidea.rxandroidble2:rxandroidble:1.16.0] /Users/gimjinsu/.gradle/caches/transforms-3/3bd49b026eaa7203b64429a4983328e5/transformed/jetified-rxandroidble-1.16.0/AndroidManifest.xml:18:5-88

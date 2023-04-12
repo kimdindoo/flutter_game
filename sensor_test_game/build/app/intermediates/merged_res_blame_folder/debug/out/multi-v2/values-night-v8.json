@@ -4,7 +4,7 @@
             "outputFile": "com.example.sensor_test_game.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/gimjinsu/Documents/flutter_game/sensor_test_game/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/gimjinsu/StudioProjects/sensor_test_game/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
